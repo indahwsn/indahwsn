@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning Data Science, AI and Machine Learning
 - 👯 I’m looking to collaborate on more projects (Data, Game Development, Web Development, etc.)
-- 💬 Ask me about anything in my social media linked in my profile
+- 💬 Ask me about anything in comment
 - 📫 How to reach me: you can come to my office
-- ⚡ Fun fact: 
+- ⚡ Fun fact: there's nothing fun about me
 
 [![indahwsn GitHub stats](https://github-readme-stats.vercel.app/api?username=indahwsn&show_icons=true&theme=tokyonight)](https://github.com/indahwsn/github-readme-stats)
